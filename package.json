@@ -1,0 +1,7 @@
+{
+  "name": "react-graphql-apollo-typescript",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "concurrently \"cd server && npm run serve\" \"cd client && npm run start\""
+  }
+}
