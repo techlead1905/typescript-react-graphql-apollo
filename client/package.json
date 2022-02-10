@@ -13,7 +13,7 @@
     "final-form": "^4.12.0",
     "graphql": "^14.3.0",
     "graphql-tag": "^2.10.1",
-    "node-sass": "^4.12.0",
+    "node-sass": "^7.0.0",
     "react": "^16.8.6",
     "react-apollo": "^2.5.5",
     "react-dom": "^16.8.6",
